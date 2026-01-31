@@ -138,7 +138,7 @@ sudo certbot certonly --nginx \
 - [ ] 拉取最新镜像
   ```bash
   cd /Users/chunlinle/dev/dify/docker
-  docker-compose pull
+  docker compose pull
   ```
 
 - [ ] 验证镜像已下载
